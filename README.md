@@ -1,4 +1,4 @@
-![MasterHead](https://www.easternts.com.au/wp-content/uploads/2020/03/Website-development-Banner.png)
+//![MasterHead](https://www.easternts.com.au/wp-content/uploads/2020/03/Website-development-Banner.png)
 
 <h1 align="center">Hi 👋, I'm Vivek Raj</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
