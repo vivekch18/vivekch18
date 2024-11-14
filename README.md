@@ -1,5 +1,3 @@
-//![MasterHead](https://www.easternts.com.au/wp-content/uploads/2020/03/Website-development-Banner.png)
-
 <h1 align="center">Hi 👋, I'm Vivek Raj</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvNHjREoR9xpZn4L4NgLpgwTAzcPp8MgF9pdwu3yP5rA&usqp=CAU&ec=48665701">
